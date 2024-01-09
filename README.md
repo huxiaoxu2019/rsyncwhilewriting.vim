@@ -1,4 +1,4 @@
-# rsyncwhilewring.vim
+# rsyncwhilewriting.vim
 To push file which is being writen to server by rsync
 
 # Author
